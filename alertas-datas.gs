@@ -20,10 +20,10 @@
  */
 
 // ===== CONFIGURAÇÃO =====
-const FILE_ID = '1syQ5PpS2ZtEXLHIu7Y2lRed7sCww6GmxHVS_wY-rcj0'; // parte do URL entre /d/ e /edit
+const FILE_ID = 'FILE_ID'; // parte do URL entre /d/ e /edit
 const INCLUIR_PARTILHADOS = true;                 // envia também para quem tem acesso de edição ao ficheiro
-const EMAILS_EXTRA = ['teste@gmail.com'];         // outros destinatários
-const EMAIL_TESTE = 'eu@gmail.com';               // único destinatário de testarSoParaMim()
+const EMAILS_EXTRA = ['EMAIL_EXTRA'];         // outros destinatários
+const EMAIL_TESTE = 'EMAIL_TESTE';               // único destinatário de testarSoParaMim()
 const HORA_DO_EMAIL = 8;                          // hora aproximada do envio diário
 const NOME_BOT = 'ALERTS-BOT';                    // nome do remetente e do cabeçalho
 const MENSAGEM_BOT = 'Mapa de festas do Semestre';
